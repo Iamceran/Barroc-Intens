@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Project_E3_Barroc_Intens (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Project_E3_Barroc_Intens (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
