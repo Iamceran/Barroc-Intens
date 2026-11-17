@@ -1,0 +1,87 @@
+Barroc Intens:
+
+- moet het een applicatie of een website zijn
+wilt het verschil zien dus beide is prima
+
+- welke rollen
+finance: houd de financiën bij
+sales: nieuwe klanten genereren
+inkoop: kunnen leasen bij ons dus we moeten die onderhouden
+moet genoeg apparaten zijn en genoeg onderdelen moet alles inkopen
+hoofd maintenance: levert onderhoud personeel
+hoofd planning: hebben een planner nodig en gaat naar de bedrijven toe om het te repareren
+
+- wat is het eerste dat je ziet als je inlogt
+als je inlogt zie je alleen dingen van je rol en niet overal op klikken 
+mogen zelf bepalen wat precies de inhoud is
+
+communicatie moet beter want klant heeft 2 keer het aantal apparaten geleverd gekregen omdat de offerte kwijt was
+
+het moet lokaal opgeslagen zijn en dat bij sommige informatie iedereen kan en ander alleen een afdeling bij kan
+
+- zijn er bepaalde rollen die alles kan zien
+ja de CEO is de admin 
+alleen admin kan nieuwe account maken
+
+- wat is het eerste dat finance zie
+welke offertes zijn goedgekeurde door sales
+overzicht van de maandelijkse en jaarlijkse inkomsten en uitgaves misschien grafiekjes 
+keurt bedrijven goed waarmee samengewerkt gewerkt kan worden
+
+- welke dingen moeten geautomatiseerd worden voor maintenance
+alle storingen kunnen zien die gemaakt worden zodat er mensen kunnen aangewezen worden
+inzicht in ingevulde werkbonnen 
+medewerker moet op hun tablet kunnen zien in een kalenderweergaven waar hij heen moet en info en details van wat hij moet doen op locatie
+aangeven welke materialen gebruikt wordt
+
+- hoe ziet een gemiddelde dag van iemand van maintenance uit
+moet kunnen zien waar hij heen moet en wat hij nodig heeft zodat hij het op kan halen en dan naar locatie kan gaan
+het liefst ziet hij ook waar de apparaat staat 
+
+- moeten bonen ook geleverd worden door ons
+ja wanneer we de contract gemaakt word dan word besproken 
+
+- hoe wordt prioriteit bepaald
+door hoofd planning
+
+bakcgroundcheck is niet ons probleem
+
+- worden onze apparaten verkocht
+nee we leasen alleen maar met contracten van een jaar
+
+betaaltermijn is per maand daarna 
+
+- als een bedrijf een storing heeft hoe zorgt hij ervoor dat wij dat zien
+zij hebben geen account 
+
+hoofd planner moet weten wie op welke storing en melding krijgen als meerdere op 1 locatie 
+
+-wat moet de afdeling sales in 1 oogopslag kunnen zien
+offertes maken
+mobiel tablet vriendelijk
+bedrijven kunnen zien/aanmerken
+welke offerte niet omgezet in factuur
+klantenservice dus storingsaanvragen kunnen zien en doorzetten naar maintenance
+heel snel kunnen zien wat besteld moet worden
+
+
+storingsaanvraag moet op niet gefixt kunnen zetten zodat het opnieuw gepland kan worden
+
+klantgegevens wordt nu in Excel bijgehouden maar moet een systeem voor gemaakt worden
+
+medewerker moet zelf beschikbaarheid kunnen invullen en die moet goedgekeurd worden
+
+moet een webshop hebben 
+
+klanten hebben geen account
+
+klantgegeven gefilterd kunnen worden
+
+afspraak informatie bijhouden 
+
+-hoe zijn hun van plan om te gaan met groei
+het moet een systeem zijn waarbij het niet uitmaakt hoeveel klanten/gegevens hebben dus testen met veel gegevens
+
+er komt geen afdeling bij
+
+houd onderwijsomgeving in de gaten er komt meer op
